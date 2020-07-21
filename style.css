@@ -1,0 +1,27 @@
+h1 {
+    color:rgb(173, 40, 40);
+}
+
+
+.grid{
+    background-color: burlywood;
+        display: flex;
+    justify-content: space-between;
+}
+
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.event{
+    background-color: cadetblue;
+}
+
+.word{
+    background-color: rgb(128,128,128);
+}
+
+.exams{
+    background-color: cornsilk;
+}
